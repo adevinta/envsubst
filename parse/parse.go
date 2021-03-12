@@ -1,3 +1,7 @@
+/*
+Copyright 2021 Adevinta
+*/
+
 // Most of the code in this package taken from golang/text/template/parse
 package parse
 

@@ -1,3 +1,7 @@
+/*
+Copyright 2021 Adevinta
+*/
+
 // envsubst command line tool
 package main
 
